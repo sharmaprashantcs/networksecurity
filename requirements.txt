@@ -1,4 +1,10 @@
 python-dotenv #for call env file
 pandas
 numpy
-pymongo # for data ingestion
+pymongo #for data ingestion
+certifi
+seaborn
+matplotlib
+
+
+-e .
