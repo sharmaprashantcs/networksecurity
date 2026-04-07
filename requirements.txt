@@ -5,6 +5,7 @@ pymongo #for data ingestion
 certifi
 seaborn
 matplotlib
-
+pymongo[srv]==3.12
+pymongo
 
 ##-e .
