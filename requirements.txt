@@ -8,5 +8,9 @@ matplotlib
 pymongo[srv]==3.12
 pymongo
 scikit-learn
+scipy
+dill
+
+pyaml
 
 ##-e .
