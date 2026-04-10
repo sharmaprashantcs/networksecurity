@@ -10,7 +10,7 @@ pymongo
 scikit-learn
 scipy
 dill
-
+mlflow
 pyaml
 
 ##-e .
