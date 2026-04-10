@@ -12,5 +12,7 @@ scipy
 dill
 mlflow
 pyaml
-
+dagshub
+fastapi
+uvicorn
 ##-e .
